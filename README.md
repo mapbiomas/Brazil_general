@@ -21,6 +21,12 @@ Explore our specialized resources and tools designed specifically for analyzing 
 - [**Pasture**](https://github.com/mapbiomas/brazil-pasture)  
 - [**Urban Area**](https://github.com/mapbiomas/brazil-urban-area)  
 
+### 🛠️ LULC Integration
+
+Integration of LULC data:
+- [**Mapbiomas LULC Integration**](https://github.com/mapbiomas/brazil-integration-toolkit)  
+
+
 ### 🌐 Other Products
 
 Specialized repositories that focus on key environmental products:
@@ -36,4 +42,7 @@ Specialized repositories that focus on key environmental products:
 
 Tools for assessing the accuracy of our data products:
 
-- [**Accuracy**](https://github.com/mapbiomas/brazil-accuracy)  
+- [**Accuracy**](https://github.com/mapbiomas/brazil-accuracy)
+
+### 🗄️ Assets
+- [**MapBiomas Brazil Collections**](https://github.com/mapbiomas/.github/blob/main/assets/brazil.md)
