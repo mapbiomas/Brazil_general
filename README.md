@@ -32,6 +32,8 @@ Specialized repositories that focus on key environmental products:
 - [**Antartica**](https://github.com/mapbiomas/Antartica/)
 - [**Climate Risk**](https://github.com/mapbiomas/brazil_climate_risk)
 
+### 📊 Analysis
 
+Tools for assessing the accuracy of our data products:
 
 - [**Accuracy**](https://github.com/mapbiomas/brazil-accuracy)  
