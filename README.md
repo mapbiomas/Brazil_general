@@ -21,10 +21,10 @@ Explore our specialized resources and tools designed specifically for analyzing 
 - [**Pasture**](https://github.com/mapbiomas/brazil-pasture)  
 - [**Urban Area**](https://github.com/mapbiomas/brazil-urban-area)  
 
-### 🛠️ LULC Integration
+### 🛠️ LULC Integration and Post Classification Filters
 
-Integration of LULC data:
-- [**Mapbiomas LULC Integration**](https://github.com/mapbiomas/brazil-integration-toolkit)  
+Integration and Post Classification Filters of LULC data:
+- [**Mapbiomas LULC Integration and Filters**](https://github.com/mapbiomas/brazil-integration-toolkit)  
 
 
 ### 🌐 Other Products
