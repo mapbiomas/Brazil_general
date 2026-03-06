@@ -1,4 +1,4 @@
-### 🇧🇷 Brazil LULC
+### 🇧🇷 Brazil
 
 Explore our specialized resources and tools designed specifically for analyzing and monitoring land use and cover in Brazil.
 
