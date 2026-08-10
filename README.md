@@ -19,7 +19,9 @@ Explore our specialized resources and tools designed specifically for analyzing 
 - [**Forest Plantation**](https://github.com/mapbiomas/brazil-forest-plantation)  
 - [**Mining**](https://github.com/mapbiomas/brazil-mining)  
 - [**Pasture**](https://github.com/mapbiomas/brazil-pasture)  
-- [**Urban Area**](https://github.com/mapbiomas/brazil-urban-area)  
+- [**Urban Area**](https://github.com/mapbiomas/brazil-urban-area)
+- [**Photovoltaic Power Plant**](https://github.com/mapbiomas/mapping_usinas_fotovoltaicas_brazil)  
+- [**Wind farm (beta)**](https://github.com/mapbiomas/brazil-wind-farm)
 
 ### 🛠️ LULC Integration and Post Classification Filters
 
